@@ -10,7 +10,7 @@ import requests
 
 host = "https://api.map.baidu.com"  # 服务地址
 uri = "/place/v2/search"  # 接口地址
-ak = "33333333"  # 修改秘钥
+ak = ""  # 修改秘钥
 
 params = {
     "query": "ATM机",
